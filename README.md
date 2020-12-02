@@ -10,4 +10,6 @@ git clone https://github.com/skullxploit/Button-Termux
 
 cd Button-Termux
 
+ls
+
 python2 Button-Termux.py
